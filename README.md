@@ -11,4 +11,6 @@
 
 * Exercício 4-) Faça um programa que receba várias idades e calcule e mostre a média das idades. Finalize o programa quando a entrada for igual a -1
 
+* Exercício Extra - Criar um banco de dados de livraria
+
 * Exercício 5-) Criar um banco de dados e manipula-lo via python
