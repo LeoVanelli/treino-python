@@ -1,7 +1,7 @@
 # Atividades de Python
 ### Reposítório para atividades de treino na linguagem Python
 
-* Exercício 1 -) Fazer um programa que receba o peso de 7 pessoas - Calcular e mostrar :
+* Exercício 1 -) Fazer um programa que receba o peso de 7 pessoas, calcular e mostrar :
   -Quantidade de pessoas acima de 90kg
   -A média dos pesos das pessoas
 
